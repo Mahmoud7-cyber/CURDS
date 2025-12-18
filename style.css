@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#222;
+    color:#fff;
+    font-family: sans-serif;
+}
+.crud{
+    width: 80%;
+    margin: auto;
+
+}
+.head{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+input{
+    width:100%;
+    height: 30px;
+    outline: none;
+    border: none;
+    background-color: #111;
+    margin:4px 0;
+    padding:4px;
+    border-radius: 4px;
+    color:#fff;
+}
+
+input:focus{
+    transform: scale(1.1);
+    background: #000;
+}
+
+.price input{
+    width:20%;
+}
+
+#total{
+    padding:5px 2px;
+    border-radius: 4px;
+    background-color: #670d0d;
+}
+#total:before{
+    content: "Total: ";
+}
+button{
+    width:100%;
+    border:none;
+    height: 35px;
+    background-color: #390053;
+    transition: 0.3s;
+    border-radius: 9px;
+}
+button:hover{
+    letter-spacing: 1px;
+    cursor: pointer;
+    background-color: #51025f;
+}
+
+.btnSearch{
+    display:flex;
+    justify-content: space-between;
+}
+.btnSearch button{
+    width:48%;
+}
+#deletall{
+    margin:20px 0;
+}
+
+
+table{
+    width: 100%;
+    text-align: center;
+    margin:10px 0;
+}
+table th{
+  text-transform: uppercase;
+}
+th,td{
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
